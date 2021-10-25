@@ -2,8 +2,8 @@
   "basics": {
     "name": "Chien Nguyen",
     "label": "AI Engineer",
-    "picture": "assets/avatar.png",
-    "email": "chiennguyen0356@gmail.com",
+    "picture": "/images/avatar.png",
+    "email": "zxzmrchien@gmail.com",
     "phone": "(+84) 969-760-955",
     "website": "https://chienducnguyen.github.io",
     "summary": "I am an AI Engineer at AIMENEXT JSC, Vietnam. I graduated in Applied Mathematics and informatics from Hanoi University of Science and Technology in 2020.\"",
@@ -35,7 +35,7 @@
       "name": "Deep Learning",
       "keywords": [
         "Computer Vision",
-        "Speech Processing"
+        "Speech Recognition"
       ]
     }
   ],
@@ -66,11 +66,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub/GitLab"
       ]
     },
     {
@@ -84,6 +81,7 @@
     {
       "institution": "Hanoi University of Science and Technology",
       "area": "Applied Mathematics and Informatics, Talented Program (Highest Honours)",
+      "studyType": "B.Eng",
       "startDate": "2015",
       "endDate": "2020",
       "gpa": "3.01/4.00",
@@ -95,36 +93,60 @@
     {
       "company": "AIMENEXT JSC",
       "position": "AI Engineer",
-      "website": "https://www.aimenext.com/",
+      "website": "https://www.aimenext.com",
       "startDate": "May 2020",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Research and develop model for OCR problem in the wild.",
+        "Research and develop model for Object Detection problem such as isis and pupil detection, change detection, ...",
+        "Develop tool for bank data collection."
       ]
     },
     {
       "company": "AIMENEXT JSC",
-      "position": "AI Engineer",
-      "website": "https://www.aimenext.com/",
+      "position": "AI Engineer Intern",
+      "website": "https://www.aimenext.com",
       "startDate": "Aug 2019",
       "endDate": "Apr 2020",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Research on sound processing, specifically the problem of speaker diarization, speaker identification.",
+        "Develop machine learning, deep learning model for meeting note problem."
       ]
     },
     {
-      "company": "Worldquant Vietnam",
+      "company": "Websim Worldquant Vietnam",
       "position": "Part-time Consultant",
       "website": "https://worldquant.com",
       "startDate": "Oct 2018",
       "endDate": "Oct 2019",
       "summary": "",
       "highlights": [
-        "Create alpha formulas for trading."
+        "Build financial models and test, simulate and track the effectiveness of models (alpha)."
+      ]
+    },
+    {
+      "company": "Icomm Vietnam",
+      "position": "Data Scientist Intern",
+      "website": "https://icomm.vn",
+      "startDate": "Feb 2019",
+      "endDate": "May 2019",
+      "summary": "",
+      "highlights": [
+        "Learn and practive about applying machine learning for some specific problem."
+      ]
+    },
+    {
+      "company": "Skymap Global Vietnam",
+      "position": "Frontend Web Developer & Machine Learning Engineer Intern",
+      "website": "http://skymapglobal.vn",
+      "startDate": "Jul 2017",
+      "endDate": "Jul 2018",
+      "summary": "",
+      "highlights": [
+        "Develop frontend for customer website.",
+        "Develop a machine learning model for processing road from satellite images."
       ]
     }
   ]
