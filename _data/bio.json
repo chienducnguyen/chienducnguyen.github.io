@@ -98,9 +98,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Research and develop model for OCR problem in the wild.",
-        "Research and develop model for Object Detection problem such as isis and pupil detection, change detection, ...",
-        "Develop tool for bank data collection."
+        "Research and develop model for OCR problem in the wild. ",
+        "Research and develop model for OCR problem in document images.", 
+        "Research and develop model for Object Detection problem such as iris and pupil detection problem, change detection in design images, ..."
+        "Optimize and maintain pre-processing system for OCR problem."
       ]
     },
     {
@@ -112,7 +113,7 @@
       "summary": "",
       "highlights": [
         "Research on sound processing, specifically the problem of speaker diarization, speaker identification.",
-        "Develop machine learning, deep learning model for meeting note problem."
+        "Building machine learning and deep earning model for creating core of meeting note application."
       ]
     },
     {
@@ -134,7 +135,7 @@
       "endDate": "May 2019",
       "summary": "",
       "highlights": [
-        "Learn and practive about applying machine learning for some specific problem."
+        "Apply machine learning to some specific problem (Speech processing, image processing)."
       ]
     },
     {
@@ -145,7 +146,7 @@
       "endDate": "Jul 2018",
       "summary": "",
       "highlights": [
-        "Develop frontend for customer website.",
+        "Develop front-end website.",
         "Develop a machine learning model for processing road from satellite images."
       ]
     }
