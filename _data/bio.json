@@ -98,10 +98,11 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Research and develop model for OCR problem in the wild. ",
+        "Research and develop model for OCR problem in the wild (Caution plate recognition, ...). ",
         "Research and develop model for OCR problem in document images.", 
-        "Research and develop model for Object Detection problem such as iris and pupil detection problem, change detection in design images, ...",
-        "Optimize and maintain pre-processing system for OCR problem."
+        "Research and develop model for Object Detection problem such as pupil detection problem, change detection in design images, ...",
+        "Optimize and maintain pre-processing system for OCR problem.",
+        "Building system to automatically collect bank card data."
       ]
     },
     {
