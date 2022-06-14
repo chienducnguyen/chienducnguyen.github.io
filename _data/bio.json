@@ -98,11 +98,12 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Research and develop model for OCR problem in the wild (Caution plate recognition, ...). ",
-        "Research and develop model for OCR problem in document images.", 
-        "Research and develop model for Object Detection problem such as pupil detection problem, change detection in design images, ...",
+        "Research and build solution and PoC to the customers' problem from sales, estimate the effort and build an appropriate plan.",
+        "Develop and deploy semantic segmentation, object detection, change detection model to solve problems of customers.",
+        "Develop model for OCR problem and apply it to solve other problems of customers.", 
+        "Deploy and manage CVAT for data annotation tool",
         "Optimize and maintain pre-processing system for OCR problem.",
-        "Building system to automatically collect bank card data."
+        "Building system to automatically collect bank data."
       ]
     },
     {
