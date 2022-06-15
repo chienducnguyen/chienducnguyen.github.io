@@ -100,7 +100,7 @@
       "highlights": [
         "Research and build solution and PoC to the customers' problem from sales, estimate the effort and build an appropriate plan.",
         "Develop and deploy semantic segmentation, object detection, change detection model to solve problems of customers.",
-        "Develop model for OCR problem and apply it to solve other problems of customers.", 
+        "Develop OCR systems and apply it to solve problems of customers.", 
         "Deploy and manage CVAT for data annotation tool",
         "Optimize and maintain pre-processing system for OCR problem.",
         "Building system to automatically collect bank data."
@@ -153,10 +153,16 @@
       ]
     }
   ],
-  "references": [
+  "volunteer": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "organization": "",
+      "website": "https://ieeexplore.ieee.org/document/9689476",
+      "position": "Speaker count: A new building block for speaker diarization, in APSIPA 2021",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Thanh Thi-Hien Duong; Phi-Le Nguyen; Hong-Son Nguyen; Duc-Chien Nguyen; Huy Phan; Ngoc Q. K. Duong",
+      "highlights": [
+      ]
     }
   ]
 }
