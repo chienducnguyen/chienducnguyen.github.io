@@ -37,6 +37,9 @@
         "Computer Vision",
         "Speech Recognition"
       ]
+    },
+    {
+      "name": "MLOps"
     }
   ],
   "skills": [
@@ -45,7 +48,7 @@
       "level": "",
       "keywords": [
         "Python",
-        "MATLAB"
+        "C++"
       ]
     },
     {
@@ -54,11 +57,13 @@
       "keywords": [
         "PyTorch",
         "Tensorflow",
+        "OpenCV",
         "Scikit-Learn",
         "Numpy",
-        "OpenCV",
-        "Matplotlib",
+        "Flask",
         "Pandas",
+        "Selenium",
+        "Docker",
         "..."
       ]
     },
@@ -91,19 +96,32 @@
   ],
   "work": [
     {
+      "company": "CÔNG TY CỔ PHẦN GIAO HÀNG TIẾT KIỆM",
+      "position": "Computer Vision Research Engineer",
+      "website": "https://giaohangtietkiem.vn",
+      "startDate": "July 2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Maintained some components of eKYC system including (OCR system for identity card, driving license, ..., ReID system for face matching and searching, ...)",
+        "Researched, designed, implemented oriented object detection for measure size of package orders from post office for internal use.",
+      ]
+    },
+    {
       "company": "AIMENEXT JSC",
       "position": "AI Engineer",
       "website": "https://www.aimenext.com",
       "startDate": "May 2020",
-      "endDate": "Present",
+      "endDate": "July 2022",
       "summary": "",
       "highlights": [
-        "Research and build solution and PoC to the customers' problem from sales, estimate the effort and build an appropriate plan.",
-        "Develop and deploy semantic segmentation, object detection, change detection model to solve problems of customers.",
-        "Develop OCR systems and apply it to solve problems of customers.", 
-        "Deploy and manage CVAT for data annotation tool",
-        "Optimize and maintain pre-processing system for OCR problem.",
-        "Building system to automatically collect bank data."
+        "Researched, designed, and implemented PoC for the customers' problem.",
+        "Researched, designed, and implemented semantic segmentation, object detection, change detection model to solve customers's problem like identify and analyze pupillary activity, identify objects in electrical circuit design drawings, detect differences in printing, ... ",
+        "Researched, designed, and implemented OCR systems can handle and extract information from various types of contexts and documents like Identity card, document image, license plate in the wild.", 
+        "Optimize and maintain pre-processing system for OCR problem (specifically the problem of rectify document images).",
+        "Designed, implemented and management system for collecting bank card payment data using Selenium library.",
+        "Mentor AI Engineer Intern in solving computer vision problem and deploying solutions via Flask-api.",
+        "Implemented and manage CVAT (a data labeling tool for deep learning problem)."
       ]
     },
     {
@@ -114,8 +132,7 @@
       "endDate": "Apr 2020",
       "summary": "",
       "highlights": [
-        "Research on sound processing, specifically the problem of speaker diarization, speaker identification.",
-        "Building machine learning and deep learning model for meeting note application."
+        "Researched and implemented solutions for speaker diarization, speaker identification problem for building applications that automatically generate meeting notes.",
       ]
     },
     {
@@ -126,7 +143,7 @@
       "endDate": "Oct 2019",
       "summary": "",
       "highlights": [
-        "Build financial models and test, simulate and track the effectiveness of models (alpha)."
+        "Build financial models, test, simulate and track the effectiveness of models (alpha) using internal operators and data."
       ]
     },
     {
@@ -137,7 +154,7 @@
       "endDate": "May 2019",
       "summary": "",
       "highlights": [
-        "Apply machine learning to some specific problem (Speech processing, image processing)."
+        "Researched and implemented solutions for speech processing and image processing problem."
       ]
     },
     {
@@ -148,8 +165,8 @@
       "endDate": "Jul 2018",
       "summary": "",
       "highlights": [
-        "Develop front-end website.",
-        "Develop a machine learning model for processing road from satellite images."
+        "Develop front-end for company website.",
+        "Implemented a machine learning model for processing road from satellite images."
       ]
     }
   ],
