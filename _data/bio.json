@@ -103,10 +103,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Training, convert, deploy deeplearning models to mobile device.",
-        "Deploy deeplearning models on NVIDIA Jetson Nano using DeepStream to solve problems under the warehouse.",
+        "Develop and deploy solutions for problems related to packages such as tracking, reading order information on stamps, measuring package dimensions.",
+        "Training, deploy computer vision model to web application, edge devices such as mobile and jetson device.",
         "Maintained some components of eKYC system including (OCR system for identity card, driving license, ..., ReID system for face matching and searching, ...)",
-        "Researched, designed, implemented oriented object detection for measure size of package orders from post office for internal use.",
       ]
     },
     {
