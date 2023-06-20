@@ -103,6 +103,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
+        "Leading a small-sized team of approximately of 5-6 members in implementing projects through various phases, including labeling, training, deployment, and testing.",
         "Develop and deploy solutions for problems related to packages such as tracking, reading order information on stamps, measuring package dimensions.",
         "Training, deploy computer vision model to web application, edge devices such as mobile and jetson device.",
         "Maintained some components of eKYC system including (OCR system for identity card, driving license, ..., ReID system for face matching and searching, ...)",
