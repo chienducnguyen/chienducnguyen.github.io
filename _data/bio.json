@@ -57,12 +57,9 @@
       "keywords": [
         "PyTorch",
         "Tensorflow",
-        "OpenCV",
-        "Scikit-Learn",
         "Flask",
-        "Pandas",
-        "Selenium",
         "Docker",
+        "WanDB",
         "..."
       ]
     },
@@ -95,17 +92,27 @@
   ],
   "work": [
     {
+      "company": "Freelancer",
+      "position": "AI Engineer",
+      "website": "",
+      "startDate": "Aug 2023",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Building and developing a digital conversion solution to extract administrative document information for 1 provinces and cities using OCR technology and natural language processing (large language model)",
+      ]
+    },
+    {
       "company": "CÔNG TY CỔ PHẦN GIAO HÀNG TIẾT KIỆM",
       "position": "Computer Vision Research Engineer",
       "website": "https://giaohangtietkiem.vn",
       "startDate": "Jul 2022",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Lead a small team to solve and optimize production process problems. Combine with the infrastructure team to deploy the product.",
       "highlights": [
-        "Leading a team of approximately of 5-6 members to solve important problems.",
+        "Developing eKYC system including (OCR system for identity card, driving license extraction, ..., ReID system for face matching and searching, ...)",
         "Develop and deploy solutions for problems related to packages such as tracking, reading order information on stamps, measuring package dimensions.",
         "Training, deploy computer vision model to web application, edge devices such as mobile and jetson device.",
-        "Develop eKYC system including (OCR system for identity card, driving license, ..., ReID system for face matching and searching, ...)",
       ]
     },
     {
@@ -116,13 +123,13 @@
       "endDate": "Jul 2022",
       "summary": "",
       "highlights": [
-        "Researched, designed, and implemented PoC for the customers' problem.",
+        "Researched, designed, and implemented demo solution for the customers' problem.",
         "Researched, designed, and implemented OCR systems can handle and extract information from various types of contexts and documents like Identity card, document image, license plate in the wild.", 
-        "Optimize and maintain pre-processing system for OCR problem (specifically the problem of rectify document images).",
-        "Researched, designed, and implemented semantic segmentation, object detection, change detection model to solve customers's problem like identify and analyze pupillary activity, identify objects in electrical circuit design drawings, detect differences in printing, ... ",
-        "Designed, implemented and management system for collecting bank card payment data using Selenium library.",
-        "Mentor AI Engineer Intern in solving computer vision problem and deploying solutions via Flask-api.",
-        "Implemented and manage CVAT (a data labeling tool for deep learning problem)."
+        "Optimize pre-processing system for OCR problem (specifically the problem of rectify document images).",
+        "Researched, designed, and implemented semantic segmentation, object detection, change detection model to solve customers's problem like analyze medical images, identify objects in electrical circuit design drawings, detect differences in printing, ... ",
+        "Designed, implemented and management system for crawling, collecting bank card payment data using Selenium library.",
+        "Mentor AI Engineer Intern in solving computer vision problem and deploying solutions.",
+        "Developing data annotation tool for deep learning problem)."
       ]
     },
     {
@@ -148,17 +155,6 @@
       ]
     },
     {
-      "company": "Icomm Vietnam",
-      "position": "Data Scientist Intern",
-      "website": "https://icomm.vn",
-      "startDate": "Feb 2019",
-      "endDate": "May 2019",
-      "summary": "",
-      "highlights": [
-        "Researched and implemented solutions for speech processing and image processing problem."
-      ]
-    },
-    {
       "company": "Skymap Global Vietnam",
       "position": "Frontend Web Developer & Machine Learning Engineer Intern",
       "website": "http://skymapglobal.vn",
@@ -167,7 +163,7 @@
       "summary": "",
       "highlights": [
         "Develop front-end for company website.",
-        "Implemented a machine learning model for processing road from satellite images."
+        "Implemented a machine learning model for detecting road from satellite images."
       ]
     }
   ],
