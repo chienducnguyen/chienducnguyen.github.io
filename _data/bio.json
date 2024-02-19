@@ -92,14 +92,14 @@
   ],
   "work": [
     {
-      "company": "Freelancer",
+      "company": "DTH SOFTWARE JOINT STOCK COMPANY",
       "position": "AI Engineer",
-      "website": "",
+      "website": "https://dth.com.vn/",
       "startDate": "Aug 2023",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Building and developing a digital conversion solution to extract administrative document information for 1 provinces and cities using OCR technology and natural language processing (large language model)",
+        "Building and developing a digital conversion solution to extract administrative document information for provinces and cities using OCR technology and natural language processing (large language model)",
       ]
     },
     {
