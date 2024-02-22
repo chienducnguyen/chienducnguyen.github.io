@@ -99,7 +99,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Develop a digital conversion solution to extract administrative document information for provinces and cities using OCR technology and natural language processing (large language model)",
+        "Build a digital conversion solution to extract administrative document information for provinces and cities using OCR technology and natural language processing (large language model)",
       ]
     },
     {
@@ -108,11 +108,11 @@
       "website": "https://giaohangtietkiem.vn",
       "startDate": "Jul 2022",
       "endDate": "Jul 2023",
-      "summary": "Lead a small team to solve and optimize production process problems. Combine with the infrastructure team to deploy the product.",
+      "summary": "Lead a small team to solve and optimize production process problems. Combine with the infrastructure team to deploy the product",
       "highlights": [
         "Develop eKYC system including (OCR system for identity card, driving license extraction, ..., ReID system for face matching and searching, ...)",
-        "Develop and deploy solutions for problems related to packages such as tracking, reading order information on stamps, measuring package dimensions.",
-        "Train, deploy computer vision model to web application, edge devices such as mobile and jetson device.",
+        "Develop and deploy solutions for problems related to packages such as tracking, reading order information on stamps, measuring package dimensions",
+        "Train, deploy computer vision model to web application, edge devices such as mobile and jetson device",
       ]
     },
     {
@@ -123,13 +123,13 @@
       "endDate": "Jul 2022",
       "summary": "",
       "highlights": [
-        "Develop demo solution for the customers' problem.",
-        "Develop OCR systems can handle and extract information from various types of contexts and documents like Identity card, document image, license plate in the wild.", 
-        "Optimize pre-processing system for OCR problem (specifically the problem of rectify document images).",
+        "Build demo solution for real customers' problem",
+        "Build OCR systems can handle and extract information from various types of contexts and documents like Identity card, document image, license plate in the wild", 
+        "Optimize pre-processing system for OCR problem (specifically the problem of rectify document images)",
         "Develop semantic segmentation, object detection, change detection model to solve customers's problem like analyze medical images, identify objects in electrical circuit design drawings, detect differences in printing, ... ",
-        "Develop system for crawling, collecting bank card payment data using Selenium library.",
-        "Mentor AI Engineer Intern in solving computer vision problem and deploying solutions.",
-        "Develop data annotation tool for deep learning problem."
+        "Mentor AI Engineer Intern in solving computer vision problem",
+        "Build data annotation tool for deep learning problem",
+        "Build system for crawling, collecting bank card payment data using Selenium library",
       ]
     },
     {
@@ -140,7 +140,7 @@
       "endDate": "Apr 2020",
       "summary": "",
       "highlights": [
-        "Research and develop solutions for speaker diarization, speaker identification problem for building applications that automatically generate meeting notes.",
+        "Research and build solutions for speaker diarization, speaker identification problem for building applications that automatically generate meeting notes",
       ]
     },
     {
@@ -151,7 +151,7 @@
       "endDate": "Oct 2019",
       "summary": "",
       "highlights": [
-        "Develop financial models, test, simulate and track the effectiveness of models (alpha) using internal operators and data."
+        "Develop financial models, test, simulate and track the effectiveness of models (alpha) using internal operators and data"
       ]
     },
     {
@@ -162,8 +162,8 @@
       "endDate": "Jul 2018",
       "summary": "",
       "highlights": [
-        "Develop front-end for company website.",
-        "Develop machine learning model for detecting road region from satellite images."
+        "Develop front-end for company website",
+        "Develop machine learning model for detecting road region from satellite images"
       ]
     }
   ],
