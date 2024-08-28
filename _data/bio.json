@@ -35,7 +35,6 @@
       "name": "Deep Learning",
       "keywords": [
         "Computer Vision",
-        "Speech Recognition"
       ]
     },
     {
@@ -48,7 +47,6 @@
       "level": "",
       "keywords": [
         "Python",
-        "C++"
       ]
     },
     {
@@ -68,7 +66,7 @@
       "level": "",
       "keywords": [
         "Ubuntu",
-        "Git/GitHub/GitLab"
+        "Git"
       ]
     },
     {
@@ -81,7 +79,7 @@
   "education": [
     {
       "institution": "Hanoi University of Science and Technology",
-      "area": "Applied Mathematics and Informatics, Talented Program (Highest Honours)",
+      "area": "Applied Mathematics and Informatics, Talented Program",
       "studyType": "B.Eng",
       "startDate": "2015",
       "endDate": "2020",
@@ -92,14 +90,26 @@
   ],
   "work": [
     {
+      "company": "Military Commercial Joint Stock Bank",
+      "position": "AI Engineer",
+      "website": "https://www.mbbank.com.vn",
+      "startDate": "May 2024",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Build OCR-based system for extracting transaction information to enhance customer service.",
+      ]
+    },
+    {
       "company": "DTH SOFTWARE JOINT STOCK COMPANY",
       "position": "AI Engineer",
       "website": "https://dth.com.vn",
       "startDate": "Aug 2023",
-      "endDate": "Present",
+      "endDate": "Apr 2024",
       "summary": "",
       "highlights": [
-        "Build a digital conversion solution to extract administrative document information for provinces and cities using OCR technology and natural language processing (large language model)",
+        "Develop an administrative document digitization system leveraging OCR and LLM for efficient data extraction and analysis.",
+        "Implement solution for enhance input image quality through the application of color style transfer models in the preprocessing stage."
       ]
     },
     {
@@ -108,11 +118,12 @@
       "website": "https://giaohangtietkiem.vn",
       "startDate": "Jul 2022",
       "endDate": "Jul 2023",
-      "summary": "Lead a small team to solve and optimize production process problems. Work with the infrastructure team to deploy the product",
+      "summary": "",
       "highlights": [
-        "Develop eKYC system including (OCR system for identity card, driving license extraction, ..., ReID system for face matching and searching, ...)",
-        "Develop and deploy solutions for problems related to packages such as tracking, reading order information on stamps, measuring package dimensions",
-        "Train, deploy computer vision model to web application, edge devices such as mobile and jetson device",
+        "Build an eKYC system incorporating OCR and ReID for information extraction from identity cards and driving licenses and face matching.",
+        "Build a package management system for tracking, extract order information and measuring package dimensions.",
+        "Deploy and monitor above model and service on-premise and edge devices, ensuring efficient model execution and logging of performance metrics.",
+        "
       ]
     },
     {
@@ -123,13 +134,10 @@
       "endDate": "Jul 2022",
       "summary": "",
       "highlights": [
-        "Build demo solution for real customers' problem",
-        "Build OCR systems can handle and extract information from various types of contexts and documents like Identity card, document image, license plate in the wild", 
-        "Optimize pre-processing system for OCR problem (specifically the problem of rectify document images)",
-        "Develop semantic segmentation, object detection, change detection model to solve customers's problem like analyze medical images, identify objects in electrical circuit design drawings, detect differences in printing, ... ",
-        "Mentor AI Engineer Intern in solving computer vision problem",
-        "Build data annotation tool for deep learning problem",
-        "Build system for crawling, collecting bank card payment data using Selenium library",
+        "Build OCR systems capable of handling diverse document types (ID cards, documents, license plates) in real-world environments.", 
+        "Enhance the preprocessing system, focusing on rectifying document images for improved OCR accuracy.",
+        "Develop Semantic Segmentation and Object Detection models to analyze medical images.",
+        "Develop a tool to streamline data annotation for deep learning projects.",
       ]
     },
     {
@@ -140,30 +148,18 @@
       "endDate": "Apr 2020",
       "summary": "",
       "highlights": [
-        "Research and build solutions for speaker diarization, speaker identification problem for building applications that automatically generate meeting notes",
-      ]
-    },
-    {
-      "company": "Websim Worldquant Vietnam",
-      "position": "Part-time Consultant",
-      "website": "https://worldquant.com",
-      "startDate": "Oct 2018",
-      "endDate": "Oct 2019",
-      "summary": "",
-      "highlights": [
-        "Develop financial models, test, simulate and track the effectiveness of models (alpha) using internal operators and data"
+        "Research and build solutions for speaker diarization, speaker identification problem for meeting note application.",
       ]
     },
     {
       "company": "Skymap Global Vietnam",
-      "position": "Frontend Web Developer & Machine Learning Engineer Intern",
+      "position": "Machine Learning Engineer Intern",
       "website": "http://skymapglobal.vn",
       "startDate": "Jul 2017",
       "endDate": "Jul 2018",
       "summary": "",
       "highlights": [
-        "Develop front-end for company website",
-        "Develop machine learning model for detecting road region from satellite images"
+        "Develop machine learning model for detecting road region from satellite images."
       ]
     }
   ],
