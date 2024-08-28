@@ -54,10 +54,11 @@
       "level": "",
       "keywords": [
         "PyTorch",
-        "Tensorflow",
+        "OpenCV",
         "Flask",
-        "Docker",
         "WanDB",
+        "Docker",
+        "Triton",
         "..."
       ]
     },
