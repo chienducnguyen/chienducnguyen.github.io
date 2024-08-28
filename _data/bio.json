@@ -123,7 +123,6 @@
         "Build an eKYC system incorporating OCR and ReID for information extraction from identity cards and driving licenses and face matching.",
         "Build a package management system for tracking, extract order information and measuring package dimensions.",
         "Deploy and monitor above model and service on-premise and edge devices, ensuring efficient model execution and logging of performance metrics.",
-        "
       ]
     },
     {
