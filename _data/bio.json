@@ -55,10 +55,11 @@
       "keywords": [
         "PyTorch",
         "OpenCV",
-        "Flask",
-        "WanDB",
+        "Flask/FastAPI",
         "Docker",
         "Triton",
+        "Tensorboard",
+        "ClearML",
         "..."
       ]
     },
@@ -98,7 +99,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Build OCR-based system for extracting transaction information to enhance customer service.",
+        "Build an AI module that automatically labels transactions to help customers manage their own spending.",
+        "Build OCR-based system for extracting transaction information to enhance customer service."
       ]
     },
     {
