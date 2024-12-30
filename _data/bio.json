@@ -53,7 +53,7 @@
       "name": "Frameworks/Library",
       "level": "",
       "keywords": [
-        "PyTorch",
+        "PyTorch/Tensorflow",
         "OpenCV",
         "Flask/FastAPI",
         "Docker",
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "company": "CÔNG TY CỔ PHẦN GIAO HÀNG TIẾT KIỆM",
+      "company": "GIAO HANG TIET KIEM JSC",
       "position": "Computer Vision Research Engineer",
       "website": "https://giaohangtietkiem.vn",
       "startDate": "Jul 2022",
@@ -126,13 +126,14 @@
         "Build an eKYC system incorporating OCR and ReID for information extraction from identity cards and driving licenses and face matching.",
         "Build a package management system for tracking, extract order information and measuring package dimensions.",
         "Deploy and monitor above model and service on-premise and edge devices, ensuring efficient model execution and logging of performance metrics.",
+        "Deploy deep learning models for OCR and object detection on mobile platforms, ensuring optimized performance and real-time inference capabilities."
       ]
     },
     {
       "company": "AIMENEXT JSC",
       "position": "AI Engineer",
       "website": "https://www.aimenext.com",
-      "startDate": "May 2020",
+      "startDate": "Aug 2019",
       "endDate": "Jul 2022",
       "summary": "",
       "highlights": [
@@ -140,17 +141,7 @@
         "Enhance the preprocessing system, focusing on rectifying document images for improved OCR accuracy.",
         "Develop Semantic Segmentation and Object Detection models to analyze medical images.",
         "Develop a tool to streamline data annotation for deep learning projects.",
-      ]
-    },
-    {
-      "company": "AIMENEXT JSC",
-      "position": "AI Engineer Intern",
-      "website": "https://www.aimenext.com",
-      "startDate": "Aug 2019",
-      "endDate": "Apr 2020",
-      "summary": "",
-      "highlights": [
-        "Research and build solutions for speaker diarization, speaker identification problem for meeting note application.",
+        "Research and build solutions for speaker diarization, speaker identification problem for meeting note application."
       ]
     },
     {
