@@ -34,11 +34,14 @@
     {
       "name": "Deep Learning",
       "keywords": [
-        "Computer Vision",
+        "Computer Vision, NLP, VLMs",
       ]
     },
     {
-      "name": "MLOps"
+      "name": "Domain Adaptation"
+    },
+    {
+      "name": "Medical Imaging"
     }
   ],
   "skills": [
@@ -92,6 +95,18 @@
   ],
   "work": [
     {
+      "position": "Part-time Research / Freelance",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Focused on improving object detection accuracy across domain-shifted medical images (colonoscopy images)",
+        "Applied techniques such as style transfer, image enhancement to improve robustness of object detecion.",
+        "Focused on improving interpretability and trust in AI-assisted medical diagnosis.",
+        "Fine-tuned a Visual Language Model to generate explanations for detection results in medical images.",
+      ]
+    },
+    {
       "company": "Military Commercial Joint Stock Bank",
       "position": "AI Engineer",
       "website": "https://www.mbbank.com.vn",
@@ -99,8 +114,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Build an AI module that automatically labels transactions to help customers manage their own spending.",
-        "Build OCR-based system for extracting transaction information to enhance customer service."
+        "Designed and deployed an AI agent system to automate lending processes, integrating LLMs to handle loan application intake, document verification, and customer interaction.",
+        "Built and maintained an AI module that automatically classifies transactions, helping users manage and visualize their spending patterns.",
+        "Developed an OCR-based pipeline to extract key information from receipts, improving customer service speed and accuracy."
       ]
     },
     {
@@ -111,8 +127,7 @@
       "endDate": "Apr 2024",
       "summary": "",
       "highlights": [
-        "Develop an administrative document digitization system leveraging OCR and LLM for efficient data extraction and analysis.",
-        "Implement solution for enhance input image quality through the application of color style transfer models in the preprocessing stage."
+        "Built an OCR and LLM-based document digitization platform for administrative paperwork.",
       ]
     },
     {
@@ -152,19 +167,7 @@
       "endDate": "Jul 2018",
       "summary": "",
       "highlights": [
-        "Develop machine learning model for detecting road region from satellite images."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "https://ieeexplore.ieee.org/document/9689476",
-      "position": "Speaker count: A new building block for speaker diarization, in APSIPA 2021",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Thanh Thi-Hien Duong; Phi-Le Nguyen; Hong-Son Nguyen; Duc-Chien Nguyen; Huy Phan; Ngoc Q. K. Duong",
-      "highlights": [
+        "Develop machine learning model for segment road region from satellite images."
       ]
     }
   ]
