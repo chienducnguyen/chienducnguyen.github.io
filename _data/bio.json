@@ -34,14 +34,11 @@
     {
       "name": "Deep Learning",
       "keywords": [
-        "Computer Vision, NLP, VLMs",
+        "Computer Vision, NLP, LLMs, VLMs",
       ]
     },
     {
-      "name": "Domain Adaptation"
-    },
-    {
-      "name": "Medical Imaging"
+      "name": "MLOps, Deployment & Monitoring"
     }
   ],
   "skills": [
@@ -58,20 +55,23 @@
       "keywords": [
         "PyTorch/Tensorflow",
         "OpenCV",
+        "Hugging Face Transformers",
         "Flask/FastAPI",
-        "Docker",
         "Triton",
         "Tensorboard",
         "ClearML",
+        "Autogen",
         "..."
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Tools & Platforms",
       "level": "",
       "keywords": [
+        "Docker",
         "Ubuntu",
-        "Git"
+        "Git",
+        "REST APIs"
       ]
     },
     {
@@ -114,7 +114,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Designed and deployed an AI agent system to automate lending processes, integrating LLMs to handle loan application intake, document verification, and customer interaction.",
+        "Designed and deployed an AI agent system to automate lending processes.",
         "Built and maintained an AI module that automatically classifies transactions, helping users manage and visualize their spending patterns.",
         "Developed an OCR-based pipeline to extract key information from receipts, improving customer service speed and accuracy."
       ]
@@ -122,12 +122,12 @@
     {
       "company": "DTH SOFTWARE JOINT STOCK COMPANY",
       "position": "AI Engineer",
-      "website": "https://dth.com.vn",
       "startDate": "Aug 2023",
       "endDate": "Apr 2024",
       "summary": "",
       "highlights": [
         "Built an OCR and LLM-based document digitization platform for administrative paperwork.",
+        "Integrated foundation models (LLMs) for structured data extraction and document understanding."
       ]
     },
     {
@@ -138,10 +138,10 @@
       "endDate": "Jul 2023",
       "summary": "",
       "highlights": [
-        "Build an eKYC system incorporating OCR and ReID for information extraction from identity cards and driving licenses and face matching.",
-        "Build a package management system for tracking, extract order information and measuring package dimensions.",
-        "Deploy and monitor above model and service on-premise and edge devices, ensuring efficient model execution and logging of performance metrics.",
-        "Deploy deep learning models for OCR and object detection on mobile platforms, ensuring optimized performance and real-time inference capabilities."
+        "Built an eKYC system using OCR and face Re-Identification (ReID) to extract ID data and match faces.",
+        "Developed package recognition systems (OCR + object detection) for logistics optimization..",
+        "Deployed deep learning models on edge and mobile devices for real-time inference.",
+        "Monitored AI services, including performance logging and model lifecycle management.."
       ]
     },
     {
@@ -152,10 +152,10 @@
       "endDate": "Jul 2022",
       "summary": "",
       "highlights": [
-        "Build OCR systems capable of handling diverse document types (ID cards, documents, license plates) in real-world environments.", 
+        "Developed robust OCR systems for diverse document types (IDs, license plates, invoices).", 
         "Enhance the preprocessing system, focusing on rectifying document images for improved OCR accuracy.",
-        "Develop Semantic Segmentation and Object Detection models to analyze medical images.",
-        "Develop a tool to streamline data annotation for deep learning projects.",
+        "Researched and implemented Semantic Segmentation and Object Detection models for medical imaging.",
+        "Created annotation tooling to accelerate data labeling workflows for Object Detection datasets.",
         "Research and build solutions for speaker diarization, speaker identification problem for meeting note application."
       ]
     },
@@ -167,7 +167,8 @@
       "endDate": "Jul 2018",
       "summary": "",
       "highlights": [
-        "Develop machine learning model for segment road region from satellite images."
+        "Develop machine learning model for segment road region from satellite images.",
+        "Worked on preprocessing large geospatial datasets for training computer vision models."
       ]
     }
   ]
