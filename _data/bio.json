@@ -55,12 +55,11 @@
       "keywords": [
         "PyTorch/Tensorflow",
         "OpenCV",
-        "Hugging Face Transformers",
+        "Transformers",
         "Flask/FastAPI",
         "Triton",
         "Tensorboard",
         "ClearML",
-        "Autogen",
         "..."
       ]
     },
