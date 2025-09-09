@@ -60,7 +60,9 @@
         "Triton",
         "Tensorboard",
         "ClearML",
-        "..."
+        "vLLM",
+        "Autogen",
+        "Langchain"
       ]
     },
     {
