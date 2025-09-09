@@ -113,7 +113,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Designed and deployed an AI agent system to automate lending processes.",
+        "Built an AI-driven agent to automate the end-to-end lending workflow, improving efficiency, compliance, and customer experience.",
+        "Developed an intelligent HR chatbot capable of answering employees’ queries related to company policies, benefits, and HR processes by leveraging advanced retrieval-augmented generation (RAG)",
         "Built and maintained an AI module that automatically classifies transactions, helping users manage and visualize their spending patterns.",
         "Developed an OCR-based pipeline to extract key information from receipts, improving customer service speed and accuracy."
       ]
@@ -151,6 +152,7 @@
       "endDate": "Jul 2022",
       "summary": "",
       "highlights": [
+        "Developed a machine learning solution to predict patients’ future health risks (e.g., diabetes, cardiovascular disease, chronic kidney disease) using multi-year medical records and lifestyle data, while ensuring transparency with explainable AI.",
         "Developed robust OCR systems for diverse document types (IDs, license plates, invoices).", 
         "Enhance the preprocessing system, focusing on rectifying document images for improved OCR accuracy.",
         "Researched and implemented Semantic Segmentation and Object Detection models for medical imaging.",
