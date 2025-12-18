@@ -62,7 +62,6 @@
         "ClearML",
         "vLLM",
         "Autogen",
-        "Langchain"
       ]
     },
     {
@@ -85,7 +84,7 @@
   "education": [
     {
       "institution": "Hanoi University of Science and Technology",
-      "area": "Applied Mathematics and Informatics, Talented Program (Top 1%)",
+      "area": "Applied Mathematics and Informatics, Talented Program",
       "studyType": "B.Eng",
       "startDate": "2015",
       "endDate": "2020",
@@ -101,7 +100,7 @@
       "summary": "",
       "highlights": [
         "Focused on improving object detection accuracy across domain-shifted medical images (colonoscopy images)",
-        "Applied techniques such as style transfer, image enhancement to improve robustness of object detecion.",
+        "Applied techniques such as color style transfer, image enhancement to improve robustness of object detecion.",
         "Focused on improving interpretability and trust in AI-assisted medical diagnosis.",
         "Fine-tuned a Visual Language Model to generate explanations for detection results in medical images.",
       ]
