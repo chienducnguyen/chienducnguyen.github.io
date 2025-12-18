@@ -102,7 +102,7 @@
         "Focused on improving object detection accuracy across domain-shifted medical images (colonoscopy images)",
         "Applied techniques such as color style transfer, image enhancement to improve robustness of object detecion.",
         "Focused on improving interpretability and trust in AI-assisted medical diagnosis.",
-        "Fine-tuned a Visual Language Model to generate explanations for detection results in medical images.",
+        "Fine-tuned a Visual Language Model (MedGemma) to generate explanations for detection results in medical images.",
       ]
     },
     {
