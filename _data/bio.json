@@ -61,7 +61,7 @@
         "Tensorboard",
         "ClearML",
         "vLLM",
-        "Autogen",
+        "LangChain Ecosystem",
       ]
     },
     {
@@ -77,14 +77,14 @@
     {
       "name": "Language",
       "keywords": [
-        "English"
+        "English (IELTS 6.5)"
       ]
     }
   ],
   "education": [
     {
       "institution": "Hanoi University of Science and Technology",
-      "area": "Applied Mathematics and Informatics, Talented Program",
+      "area": "Applied Mathematics and Informatics, Talented Program (Top 1%)",
       "studyType": "B.Eng",
       "startDate": "2015",
       "endDate": "2020",
