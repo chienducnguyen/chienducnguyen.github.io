@@ -99,10 +99,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Focused on improving object detection accuracy across domain-shifted medical images (colonoscopy images)",
-        "Applied techniques such as color style transfer, image enhancement to improve robustness of object detecion.",
-        "Focused on improving interpretability and trust in AI-assisted medical diagnosis.",
-        "Fine-tuned a Visual Language Model (MedGemma) to generate explanations for detection results in medical images.",
+        "Developed a deep learning-based framework for colorectal polyp and lesion detection in colonoscopy images using public datasets.",
+        "Fine-tuned object detection models and optimized training pipelines to improve sensitivity and localization accuracy under cross-device domain shift.",
+        "Implemented color style transfer and GAN-based style adaptation to enhance robustness across heterogeneous medical devices.",
+        "Designed and deployed a vision-language agent system, fine-tuning MedGemma to generate structured, clinically relevant explanations for detection results.",
       ]
     },
     {
